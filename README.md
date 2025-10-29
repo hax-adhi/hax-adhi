@@ -1,73 +1,42 @@
-# Penetration Tester| Security Analyst
+👋 About Me
 
-Welcome to my field of play ! I'm  a skilled cybersecurity professional specializing in identifying vulnerabilities, securing networks, and providing actionable security solutions. 
+Hi there! I'm [Your Name], a passionate Security Analyst & Ethical Hacker focused on identifying vulnerabilities, securing infrastructures, and strengthening cyber defense systems. My goal is to make the digital world a safer place — one exploit, patch, and report at a time.
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVsZTVucWJqdjI4MWZ0M2pnYnpqZGs5amJjdzFkcXppZnMyY3JmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpAbvUz7jLFbq/giphy.gif"/>
+With hands-on experience across penetration testing, network vulnerability assessments, and incident response, I specialize in uncovering and mitigating threats before they can be exploited. I’m constantly exploring the latest attack vectors, red team methodologies, and defense strategies to stay ahead in the ever-evolving cybersecurity landscape.
 
----
+🧠 Core Competencies
 
-## 🕵️ Who am i 
+Penetration Testing – Web, Network, and System-based assessments
 
-<img src="https://media1.tenor.com/m/rgegj1AOR1IAAAAd/awkward-black.gif"/>
+Vulnerability Analysis – Identifying and remediating weaknesses with tools like Nmap, Burp Suite, SQLmap, and Nessus
 
-Hello! I am Adithyakrishna a Cyber Security Analyst and Penetration tester. I am passionate about securing digital environments and helping organizations strengthen their security posture through penetration testing and vulnerability assessments. With experience in both manual testing and automated tools, I focus on discovering security gaps and recommending practical solutions.
+Network Security – Traffic analysis, firewall tuning, and exploit research
 
----
+Threat Intelligence – Understanding attack patterns and mitigation strategies
 
-### 💼 What do i do 
-- Assesing Vulnerablities 🔎
-- Pentesting 🔧
-- Securing Systems 🔐
--  Analysing Systems 👁️
--  Making reports 📑
----
-## 🛠️ Work buddies
+Security Reporting & Documentation – Creating detailed and actionable reports
 
-Here are some of the tools i use while working
+🧰 Tools & Technologies
 
-- **Burp Suite** <img src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/BurpSuite-512.png" width="20"/>
-- **FFUF** <img src="https://avatars.githubusercontent.com/u/42502069?s=280&v=4" width="25"/>   
-- **Nmap** <img src="https://www.vhv.rs/dpng/d/608-6083498_nmap-logo-hd-png-download.png" width="35"/>
+Burp Suite • Nmap • SQLmap • Metasploit • Nessus • Wireshark • Kali Linux • Metasploitable • OWASP ZAP • Hydra
 
----
-## Me when it's Go time 🚨
-<img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZtM2IydjNseWM3dzRqcXBmenZvNnYzemNoOWlqanVpdTlqZzdlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vgi5B3KLFC3s0bNGFi/giphy.gif"/>
+🌱 Currently Learning
 
-## *When i'm deeply in pentesting*
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBrb21ia3FoODI1MG1zZXFvaTNzOGoyZGJ0cTZlaXR2djd6N2NpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif"/>
+Advanced Red Team tactics and Post-Exploitation Techniques
 
-## *When nothing is found*
-<img src="https://media1.tenor.com/m/nvLI5ft4bqAAAAAd/cloris-leach.gif"/>
+Cloud Security and Container Exploitation
 
-## *When i finally get the result*
+Scripting automation in Python and Bash
 
-<img src="https://media1.tenor.com/m/f4Lar3AwBVQAAAAd/this-is-elon-musk.gif"/>
+📫 Connect With Me
 
+💼 LinkedIn
 
+🧑‍💻 GitHub
 
+✉️ Email: [youremail@example.com
+]
 
----
-## 🧑‍💻 Contact Me
+⚡ Fun Fact
 
-Feel free to reach out to me for collaboration opportunities, questions, or consulting services!
-
-- **Email**: adithyakrishnar589@gmail.com
-- **LinkedIn**: 
-- **Twitter**: 
-
----
-
-## ⚡️ Fun Facts
-
-- I’m always exploring new vulnerabilities and creative ways to exploit them in controlled environments.
-- I love contributing to open-source security tools and helping others in the cybersecurity community.
-- In my free time, I enjoy [sufing through the we.
-- Always learning new thing a day  
-
----
-<img src="https://media1.tenor.com/m/qVKlQMB2DpsAAAAd/hacker-hacking.gif"/>
-
-## 💡 License
-
-This repository is licensed under the [MIT License](LICENSE).
-
+I love diving into Capture the Flag (CTF) challenges and testing my skills on vulnerable environments like Metasploitable and TryHackMe. Every challenge is a new puzzle waiting to be solved.
