@@ -13,7 +13,7 @@ With hands-on experience across penetration testing, network vulnerability asses
 
 - Threat Intelligence – Understanding attack patterns and mitigation strategies
 
-Security Reporting & Documentation – Creating detailed and actionable reports
+- Security Reporting & Documentation – Creating detailed and actionable reports
 
 ## 🧰 Tools & Technologies
 
