@@ -33,7 +33,7 @@ Burp Suite • Nmap • SQLmap • Metasploit • Nessus • Wireshark • Kali 
 
 🧑‍💻 GitHub : https://github.com/hax-adhi
 
-✉️ Email: adithyakrishnar589@gmail.com
+✉️ Email: adhihx004@gmail.com
 
 ## ⚡ Fun Fact
 
