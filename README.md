@@ -21,11 +21,11 @@ Burp Suite • Nmap • SQLmap • Metasploit • Nessus • Wireshark • Kali 
 
 ## 🌱 Currently Learning
 
-Advanced Red Team tactics and Post-Exploitation Techniques
+- Advanced Red Team tactics and Post-Exploitation Techniques
 
-Cloud Security and Container Exploitation
+- SIEM and Log Monitoring 
 
-Scripting automation in Python and Bash
+- Scripting automation in Python and Bash
 
 ## 📫 Connect With Me
 
